@@ -2,6 +2,7 @@
  * Adam Flammino
  * SDEV 385
  * This was written and tested on Debian 9.4
+ * Enforces the bounded waiting requirement while using test and swap for mutual exclusion
  */
 
 #include <stdio.h>
